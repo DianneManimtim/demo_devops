@@ -21,7 +21,7 @@
   </properties>
 
   <modules>
-    <module>src/home</module>
+    <module>home</module>
   </modules>
 
   <distributionManagement>
